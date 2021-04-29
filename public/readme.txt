@@ -1,0 +1,1 @@
+I have made the project by following along a PLuralSight Course on 'Building Applications with React and Flux' by Author Cory House.
